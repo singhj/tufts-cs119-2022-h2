@@ -1,9 +1,10 @@
 Welcome to the CS-119 Syllabus
 ==============================
 
+Guide
+^^^^^
 .. toctree::
    :maxdepth: 3
-   :caption: Contents:
    
 Meetings and Contacts
 ---------------------
