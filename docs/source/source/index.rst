@@ -2,7 +2,7 @@ Welcome to the CS-119 Syllabus
 ===================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
 
