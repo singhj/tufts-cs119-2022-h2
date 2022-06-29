@@ -8,8 +8,8 @@ Syllabus
    
 Lectures
 --------
-4:30 — 5:45
-Joyce Cummings Center 160
+4:30 — 5:45 <br />
+Joyce Cummings Center 160<br />
 Zoom coordinates to be published over Piazza.
 
 The preferred mode of attending lectures is synchronous, in person, in order to be able to participate in class discussions.
@@ -30,3 +30,4 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
