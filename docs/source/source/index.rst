@@ -8,7 +8,7 @@ Guide
    
 Meetings and Contacts
 ---------------------
-4:30 &mdash; 5:45
+4:30 — 5:45
 Joyce Cummings Center 160
 
 
